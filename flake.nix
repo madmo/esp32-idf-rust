@@ -30,7 +30,7 @@
           buildInputs = [
             pkgs.xz
             pkgs.zlib
-            pkgs.libxml2
+            pkgs.libxml2_13
             pkgs.python2
             pkgs.libudev-zero
             pkgs.stdenv.cc.cc
